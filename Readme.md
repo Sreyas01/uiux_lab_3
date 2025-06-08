@@ -9,4 +9,5 @@ Develop and incorporate required changes in the analysed apps/websites.
 Evaluate the impact of design changes on user behaviour (for Both A and B) using A/B testing methods.
 
 ## ANSWERS
-[ui lab3 (1).pdf](https://github.com/user-attachments/files/20510928/ui.lab3.1.pdf)
+
+[ui lab3 (2).pdf](https://github.com/user-attachments/files/20643691/ui.lab3.2.pdf)
