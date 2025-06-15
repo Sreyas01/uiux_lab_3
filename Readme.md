@@ -10,4 +10,4 @@ Evaluate the impact of design changes on user behaviour (for Both A and B) using
 
 ## ANSWERS
 
-[ui lab3 (2).pdf](https://github.com/user-attachments/files/20643691/ui.lab3.2.pdf)
+[Uploading UI UX LAB EXPERIEMENT-3.docx…]()
